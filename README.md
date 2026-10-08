@@ -165,6 +165,6 @@ skillbox/
 
 ## Author
 
-**Jai Ganesh R**  
-**Register Number:** RA2411003050171  
+**Haritha D**  
+**Register Number:** RA2411003050144  
 *Full Stack Web Development Individual Assignment*
